@@ -18,8 +18,7 @@ public class ViewCliente extends javax.swing.JFrame {
     Cliente cliente = new Cliente();
     DAOCliente dao = new DAOCliente();
     
-    String [] columnas = {"id","tipoId","nombre","apellido"
-            + ",usuario","contra","celular","email"};
+    String [] columnas = {"id","tipoId","nombre","apellido","usuario","contra","celular","email"};
     ArrayList<Object[]> datos = new ArrayList<>();
     DefaultTableModel modelo = new DefaultTableModel(columnas,0);
 
@@ -117,16 +116,21 @@ public class ViewCliente extends javax.swing.JFrame {
         });
 
         btnLimpiar.setText("Limpiar");
+        btnLimpiar.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                btnLimpiarMouseClicked(evt);
+            }
+        });
 
         tblDatos.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null},
-                {null, null, null, null},
-                {null, null, null, null},
-                {null, null, null, null}
+                {null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null}
             },
             new String [] {
-                "Title 1", "Title 2", "Title 3", "Title 4"
+                "Title 1", "Title 2", "Title 3", "Title 4", "Title 5", "Title 6", "Title 7", "Title 8"
             }
         ));
         jScrollPane1.setViewportView(tblDatos);
@@ -177,11 +181,11 @@ public class ViewCliente extends javax.swing.JFrame {
                         .addComponent(btnDelete)
                         .addGap(18, 18, 18)
                         .addComponent(btnLimpiar)))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(124, Short.MAX_VALUE)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(102, 102, 102))
+                .addContainerGap(125, Short.MAX_VALUE))
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane1)
+                .addContainerGap())
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -253,6 +257,7 @@ public class ViewCliente extends javax.swing.JFrame {
       cliente.setCelular(this.txtCelular.getText());
       cliente.setEmail(this.txtEmail.getText());
       dao.add(cliente);
+      cargar();
     }//GEN-LAST:event_btnAddMouseClicked
 
     private void btnUpdateMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnUpdateMouseClicked
@@ -265,12 +270,25 @@ public class ViewCliente extends javax.swing.JFrame {
       cliente.setCelular(this.txtCelular.getText());
       cliente.setEmail(this.txtEmail.getText());
       dao.update(cliente);
+      cargar();
     }//GEN-LAST:event_btnUpdateMouseClicked
 
     private void btnDeleteMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnDeleteMouseClicked
       cliente.setId(Integer.parseInt(this.txtID.getText()));
       dao.delete(cliente);
+      cargar();
     }//GEN-LAST:event_btnDeleteMouseClicked
+
+    private void btnLimpiarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnLimpiarMouseClicked
+      this.txtID.setText(null);
+      this.txtTipoId.setText(null);
+      this.txtNombre.setText(null);
+      this.txtApellido.setText(null);
+      this.txtUsuario.setText(null);
+      this.txtContra.setText(null);
+      this.txtCelular.setText(null);
+      this.txtEmail.setText(null);
+    }//GEN-LAST:event_btnLimpiarMouseClicked
 
     /**
      * @param args the command line arguments

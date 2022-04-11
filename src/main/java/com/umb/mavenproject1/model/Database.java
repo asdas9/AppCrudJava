@@ -16,10 +16,10 @@ public class Database {
     
 
     public Database() {
-        this.url = "jdbc:mariadb://localhost:3306/umb";
-        this.user = "root";
-        this.pass = "sasa";
-        this.driver = "com.mysql.jdbcDriver";
+        this.url = "jdbc:mysql://192.168.0.10:3306/umb";
+        this.user = "remoto";
+        this.pass = "pass";
+        this.driver = "com.mysql.jdbc.Driver";
     }
 
     public String getUrl() {

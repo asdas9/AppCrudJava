@@ -26,7 +26,6 @@ public class DAOCliente implements Operations {
         Connection con;
         PreparedStatement pst;
         try {
-            Class.forName(db.getDriver());
             con = DriverManager.getConnection(db.getUrl(), db.getUser(), db.getPass());
             pst = con.prepareCall(sql);
             pst.setInt(1, cliente.getId());
@@ -45,7 +44,7 @@ public class DAOCliente implements Operations {
                 con.close();
                 return false;
             }
-        } catch (ClassNotFoundException | SQLException e) {
+        } catch (SQLException e) {
             JOptionPane.showMessageDialog(null, "Ocurrio un error :" + e.getMessage());
             return false;
         }
@@ -60,7 +59,6 @@ public class DAOCliente implements Operations {
         Connection con;
         PreparedStatement pst;
         try {
-            Class.forName(db.getDriver());
             con = DriverManager.getConnection(db.getUrl(), db.getUser(), db.getPass());
             pst = con.prepareCall(sql);
             pst.setString(1, cliente.getTipoId());
@@ -79,7 +77,7 @@ public class DAOCliente implements Operations {
                 con.close();
                 return false;
             }
-        } catch (ClassNotFoundException | SQLException e) {
+        } catch (SQLException e) {
             JOptionPane.showMessageDialog(null, "Ocurrio un error :" + e.getMessage());
             return false;
         }
@@ -92,7 +90,6 @@ public class DAOCliente implements Operations {
         Connection con;
         PreparedStatement pst;
         try {
-            Class.forName(db.getDriver());
             con = DriverManager.getConnection(db.getUrl(), db.getUser(), db.getPass());
             pst = con.prepareCall(sql);
             pst.setInt(1, cliente.getId());
@@ -104,7 +101,7 @@ public class DAOCliente implements Operations {
                 con.close();
                 return false;
             }
-        } catch (ClassNotFoundException | SQLException e) {
+        } catch (SQLException e) {
             JOptionPane.showMessageDialog(null, "Ocurrio un error :" + e.getMessage());
             return false;
         }
@@ -119,7 +116,6 @@ public class DAOCliente implements Operations {
         ResultSetMetaData meta;
         ArrayList<Object[]> datos = new ArrayList<>();
         try {
-            Class.forName(db.getDriver());
             con = DriverManager.getConnection(db.getUrl(), db.getUser(), db.getPass());
             pst = con.prepareStatement(sql);
             rs = pst.executeQuery();
@@ -131,7 +127,7 @@ public class DAOCliente implements Operations {
                 }
                 datos.add(fila);
             }
-        } catch (ClassNotFoundException | SQLException e) {
+        } catch (SQLException e) {
             JOptionPane.showMessageDialog(null, "Ocurrio un error :" + e.getMessage());
         }
         return datos;
