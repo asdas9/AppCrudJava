@@ -16,7 +16,7 @@ public class Database {
     
 
     public Database() {
-        this.url = "jdbc:mysql://192.168.0.10:3306/umb";
+        this.url = "jdbc:mysql://192.168.10.4:3306/umb";
         this.user = "remoto";
         this.pass = "pass";
         this.driver = "com.mysql.jdbc.Driver";
