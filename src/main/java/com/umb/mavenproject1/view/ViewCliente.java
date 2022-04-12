@@ -59,7 +59,6 @@ public class ViewCliente extends javax.swing.JFrame {
         jLabel5 = new javax.swing.JLabel();
         txtUsuario = new javax.swing.JTextField();
         jLabel6 = new javax.swing.JLabel();
-        txtContra = new javax.swing.JTextField();
         jLabel7 = new javax.swing.JLabel();
         txtCelular = new javax.swing.JTextField();
         jLabel8 = new javax.swing.JLabel();
@@ -70,6 +69,7 @@ public class ViewCliente extends javax.swing.JFrame {
         btnLimpiar = new javax.swing.JButton();
         jScrollPane1 = new javax.swing.JScrollPane();
         tblDatos = new javax.swing.JTable();
+        txtContra = new javax.swing.JPasswordField();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -167,11 +167,11 @@ public class ViewCliente extends javax.swing.JFrame {
                                     .addComponent(jLabel8)
                                     .addComponent(txtEmail, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE))))
                         .addGap(18, 18, 18)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                             .addComponent(jLabel5)
-                            .addComponent(txtUsuario, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(txtUsuario, javax.swing.GroupLayout.DEFAULT_SIZE, 90, Short.MAX_VALUE)
                             .addComponent(jLabel6)
-                            .addComponent(txtContra, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                            .addComponent(txtContra)))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(28, 28, 28)
                         .addComponent(btnAdd)
@@ -219,7 +219,9 @@ public class ViewCliente extends javax.swing.JFrame {
                             .addGroup(layout.createSequentialGroup()
                                 .addComponent(jLabel8)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(txtEmail, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                    .addComponent(txtEmail, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                    .addComponent(txtContra, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(jLabel5)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -227,8 +229,7 @@ public class ViewCliente extends javax.swing.JFrame {
                         .addGap(50, 50, 50))
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(jLabel6)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(txtContra, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                        .addGap(28, 28, 28)))
                 .addGap(30, 30, 30)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(btnAdd)
@@ -248,12 +249,13 @@ public class ViewCliente extends javax.swing.JFrame {
     }//GEN-LAST:event_btnAddActionPerformed
 
     private void btnAddMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnAddMouseClicked
+      String passText = new String(this.txtContra.getPassword());
       cliente.setId(Integer.parseInt(this.txtID.getText()));
       cliente.setTipoId(this.txtTipoId.getText());
       cliente.setNombre(this.txtNombre.getText());
       cliente.setApellido(this.txtApellido.getText());
       cliente.setUsuario(this.txtUsuario.getText());
-      cliente.setContra(this.txtContra.getText());
+      cliente.setContra(passText);
       cliente.setCelular(this.txtCelular.getText());
       cliente.setEmail(this.txtEmail.getText());
       dao.add(cliente);
@@ -261,12 +263,13 @@ public class ViewCliente extends javax.swing.JFrame {
     }//GEN-LAST:event_btnAddMouseClicked
 
     private void btnUpdateMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnUpdateMouseClicked
+     String passText = new String(this.txtContra.getPassword());
       cliente.setId(Integer.parseInt(this.txtID.getText()));
       cliente.setTipoId(this.txtTipoId.getText());
       cliente.setNombre(this.txtNombre.getText());
       cliente.setApellido(this.txtApellido.getText());
       cliente.setUsuario(this.txtUsuario.getText());
-      cliente.setContra(this.txtContra.getText());
+      cliente.setContra(passText);
       cliente.setCelular(this.txtCelular.getText());
       cliente.setEmail(this.txtEmail.getText());
       dao.update(cliente);
@@ -342,7 +345,7 @@ public class ViewCliente extends javax.swing.JFrame {
     private javax.swing.JTable tblDatos;
     private javax.swing.JTextField txtApellido;
     private javax.swing.JTextField txtCelular;
-    private javax.swing.JTextField txtContra;
+    private javax.swing.JPasswordField txtContra;
     private javax.swing.JTextField txtEmail;
     private javax.swing.JTextField txtID;
     private javax.swing.JTextField txtNombre;
