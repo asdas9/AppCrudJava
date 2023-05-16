@@ -1,0 +1,1701 @@
+{
+  "regComiPlat": {
+    "Civitatis": 1236000,
+    "Guruwalk": 1662000,
+    "Freetour.com": 216000
+  },
+  "toures": 140,
+  "personas": 1838,
+  "comHotel": 1031000,
+  "reservas": 1632,
+  "paises": {
+    "South Africa": 1,
+    "Singapore": 13,
+    "Swaziland": 6,
+    "Desconocido": 82,
+    "Mexico": 83,
+    "Albania": 1,
+    "New Zealand": 9,
+    "Greece": 3,
+    "Bolivia": 1,
+    "United Kingdom": 90,
+    "Kyrgyzstan": 2,
+    "Denmark": 14,
+    "Armenia": 1,
+    "Dominican Republic": 4,
+    "Slovakia": 2,
+    "Korea, Republic Of": 1,
+    "Hong Kong": 1,
+    "Dominica": 5,
+    "Andorra": 1,
+    "Argentina": 69,
+    "Uruguay": 15,
+    "India": 6,
+    "France": 64,
+    "Poland": 29,
+    "Taiwan": 2,
+    "Puerto Rico": 9,
+    "Guatemala": 3,
+    "Israel": 36,
+    "New Zealand": 3,
+    "Philippines": 1,
+    "Chile": 22,
+    "El Salvador": 7,
+    "Serbia": 5,
+    "Portugal": 19,
+    "Germany": 179,
+    "Malawi": 1,
+    "Finland": 2,
+    "Spain": 130,
+    "Costa Rica": 10,
+    "Ecuador": 24,
+    "Costa Rica": 6,
+    "Russian Federation": 4,
+    "Switzerland": 27,
+    "Australia": 21,
+    "Austria": 24,
+    "Panama": 11,
+    "Colombia": 148,
+    "China": 14,
+    "Lithuania": 1,
+    "Netherlands": 72,
+    "Turkey": 7,
+    "Honduras": 3,
+    "Belgium": 31,
+    "United Kingdom": 60,
+    "Czech Republic": 2,
+    "Luxembourg": 2,
+    "United States": 94,
+    "Japan": 2,
+    "Croatia": 1,
+    "Norway": 6,
+    "Slovenia": 3,
+    "England": 3,
+    "Brazil": 58,
+    "Peru": 27,
+    "Morocco": 1,
+    "Cyprus": 2,
+    "Afghanistan": 6,
+    "Bulgaria": 1,
+    "Sweden": 7,
+    "Venezuela": 1,
+    "United States": 116,
+    "Pakistan": 1,
+    "Tunisia": 1,
+    "Dominican Republic": 10,
+    "Ukraine": 2,
+    "Canada": 50,
+    "Lebanon": 3,
+    "Indonesia": 6,
+    "Estonia": 1,
+    "Cambodia": 1,
+    "Italy": 18,
+    "Ireland": 28
+  },
+  "mes": "10",
+  "comPlataforma": 3114000,
+  "ano": "2022",
+  "guias": {
+    "Hector Cáceres - 3507880253": {
+      "recoleccion": 1569000,
+      "personas": 5,
+      "toures": 5
+    },
+    "Camilo Sanchez  - 3105544547": {
+      "recoleccion": 4211500,
+      "toures": 11,
+      "personas": 7
+    },
+    "Juan Aponte - 3204440551": {
+      "recoleccion": 379000,
+      "personas": 1,
+      "toures": 1
+    },
+    "Rafael Daza - 3192478871": {
+      "recoleccion": 5511000,
+      "toures": 15,
+      "personas": 15
+    },
+    "Natalia1996 - 3184564232": {
+      "toures": 11,
+      "recoleccion": 3230500,
+      "personas": 11
+    },
+    "Viviana Castro  - 3105685757": {
+      "personas": 8,
+      "recoleccion": 3481000,
+      "toures": 7
+    },
+    "Luz Adriana Ibañez - +57 300 2059677": {
+      "personas": 12,
+      "toures": 9,
+      "recoleccion": 3477900
+    },
+    "Santiago Vega - +57 311 2635905": {
+      "recoleccion": 4816800,
+      "personas": 15,
+      "toures": 13
+    },
+    "Erik Eduardo Díaz Osorio  - 3143318944": {
+      "recoleccion": 3163500,
+      "personas": 9,
+      "toures": 11
+    },
+    "Jeffer Carrillo - 3006757300": {
+      "toures": 7,
+      "personas": 13,
+      "recoleccion": 4619000
+    },
+    "Byron León Méndez - +57 312 4891787": {
+      "recoleccion": 4519000,
+      "personas": 8,
+      "toures": 10
+    },
+    "Juliana jaramillo  - (+57) 3012078787 ": {
+      "personas": 8,
+      "recoleccion": 7111300,
+      "toures": 14
+    },
+    "Angelica Rodriguez - 3105891842": {
+      "personas": 12,
+      "recoleccion": 3576200,
+      "toures": 8
+    },
+    "Dianne Mejía León - 3004307689": {
+      "toures": 18,
+      "recoleccion": 8164100,
+      "personas": 24
+    }
+  },
+  "comGuias": 33768380,
+  "hotel": 200,
+  "ingresosBrutos": 57829800,
+  "ingresosBeyond": 19916420,
+  "ingresosDespHot": 56798800,
+  "noPresentan": 1062,
+  "regComiHot": {
+    "The Luun Hostel": 6000,
+    "Selina Candelaria": 264000,
+    "Macondo Hostel": 21000,
+    "Explora": 6000,
+    "R10": 90000,
+    "Fátima Suites": 33000,
+    "Arche Noah": 42000,
+    "Masaya Bogota": 116000,
+    "Prisma Hostel": 6000,
+    "Casa Republicana": 6000,
+    "Colibrí": 6000,
+    "Trip Monkey Hostel": 6000,
+    "Botánico Hostel": 147000,
+    "Lima Limon": 27000,
+    "Selina Chapinero": 28000,
+    "Bandido": 15000,
+    "Sin Hostel Bogota": 18000,
+    "Hobu": 27000,
+    "Casa de la Vega": 15000,
+    "El Viajero Bogotá": 132000,
+    "Selina Parque 93": 20000
+  },
+  "noTerminan": 0,
+  "plataforma": {
+    "Blog": 84,
+    "Civitatis": 206,
+    "adic": {
+      "Sin Hostel Bogota": 6,
+      "Prisma Hostel": 2,
+      "Fátima Suites": 11,
+      "Trip Monkey Hostel": 2,
+      "Macondo Hostel": 7,
+      "Los encontré en la calle ": 2,
+      "The Luun Hostel": 2,
+      "El Viajero Bogotá": 33,
+      "Agencia protours": 3,
+      "Casa de la Vega": 5,
+      "R10": 30,
+      "Botánico Hostel": 49,
+      "Arche Noah": 14,
+      "Hobu": 9,
+      "Selina Chapinero": 7,
+      "Casa Republicana": 2,
+      "Selina Candelaria": 66,
+      "Explora": 2,
+      "Bandido": 5,
+      "tet.artist@gmail.com": 3,
+      "graffiti tour website": 1,
+      "Colibrí": 2,
+      "Granada Hostel": 4,
+      "Masaya Bogota": 29,
+      "Graffiti": 6,
+      "Lima Limon": 9,
+      "Selina Parque 93": 5,
+      "Casa de las Plazas Hostal": 2,
+      "Und": 1520
+    },
+    "TripAdvisor": 22,
+    "Facebook": 9,
+    "Free Tour Cartagena": 27,
+    "Free Tour Free Tour Medellin": 12,
+    "Lucky": 18,
+    "Freetour.com": 54,
+    "Guruwalk": 277,
+    "Free Tour Medellin": 5,
+    "Guidebook": 13,
+    "Café Orígenes": 3,
+    "Free Tour Bogota": 94,
+    "A friend": 215,
+    "Airbnb": 6,
+    "Instagram": 4,
+    "Other": 59,
+    "Viator": 4,
+    "Hostel/Hotel": 307,
+    "Guia": 3,
+    "Google": 416
+  },
+  "costosOperativos": 0,
+  "plataformac": 291,
+  "touresL": {
+    "Free Walking Tour Bogotá_Spanish": {
+      "comGuias": 10649400,
+      "paises": {
+        "Germany": 17,
+        "Australia": 3,
+        "El Salvador": 5,
+        "Dominican Republic": 9,
+        "Panama": 9,
+        "Italy": 4,
+        "Estonia": 1,
+        "France": 12,
+        "United States": 2,
+        "China": 7,
+        "Mexico": 71,
+        "United Kingdom": 3,
+        "Hong Kong": 1,
+        "United Kingdom": 1,
+        "Brazil": 20,
+        "Ecuador": 24,
+        "Argentina": 61,
+        "Peru": 25,
+        "Honduras": 3,
+        "Dominica": 4,
+        "Guatemala": 2,
+        "Uruguay": 13,
+        "Ukraine": 2,
+        "Slovenia": 1,
+        "Belgium": 2,
+        "Puerto Rico": 6,
+        "Morocco": 1,
+        "Desconocido": 19,
+        "Costa Rica": 6,
+        "Colombia": 90,
+        "Spain": 121,
+        "Costa Rica": 8,
+        "Sweden": 2,
+        "Swaziland": 3,
+        "Poland": 1,
+        "Portugal": 5,
+        "Chile": 19,
+        "Netherlands": 2,
+        "Austria": 3,
+        "Malawi": 1,
+        "United States": 26,
+        "Dominican Republic": 4
+      },
+      "canales": [
+        "Civitatis",
+        "Guruwalk",
+        "Freetour.com"
+      ],
+      "comHotel": 133000,
+      "guiasP": {
+        "Camilo Sanchez  - 3105544547": {
+          "valor": 24000,
+          "personas": 4,
+          "cant": 2
+        },
+        "Viviana Castro  - 3105685757": {
+          "cant": 13,
+          "personas": 26,
+          "valor": 156000
+        },
+        "Jeffer Carrillo - 3006757300": {
+          "personas": 2,
+          "valor": 12000,
+          "cant": 1
+        },
+        "Hector Cáceres - 3507880253": {
+          "valor": 54000,
+          "cant": 4,
+          "personas": 9
+        },
+        "Erik Eduardo Díaz Osorio  - 3143318944": {
+          "valor": 276000,
+          "personas": 46,
+          "cant": 25
+        },
+        "Rafael Daza - 3192478871": {
+          "valor": 150000,
+          "cant": 14,
+          "personas": 25
+        },
+        "Byron León Méndez - +57 312 4891787": {
+          "valor": 254000,
+          "cant": 21,
+          "personas": 44
+        },
+        "Natalia1996 - 3184564232": {
+          "personas": 22,
+          "valor": 132000,
+          "cant": 13
+        },
+        "Dianne Mejía León - 3004307689": {
+          "personas": 40,
+          "valor": 238000,
+          "cant": 23
+        },
+        "Luz Adriana Ibañez - +57 300 2059677": {
+          "valor": 380000,
+          "personas": 64,
+          "cant": 36
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "valor": 74000,
+          "cant": 8,
+          "personas": 13
+        },
+        "Juliana jaramillo  - (+57) 3012078787 ": {
+          "valor": 156000,
+          "personas": 26,
+          "cant": 12
+        },
+        "Angelica Rodriguez - 3105891842": {
+          "personas": 14,
+          "cant": 9,
+          "valor": 82000
+        }
+      },
+      "comPlat": {
+        "Guruwalk": {
+          "monto": 804000,
+          "personas": 134
+        },
+        "Freetour.com": {
+          "monto": 44000,
+          "personas": 11
+        },
+        "Civitatis": {
+          "monto": 1140000,
+          "personas": 190
+        }
+      },
+      "comPlataforma": 1988000,
+      "guias": {
+        "Luz Adriana Ibañez - +57 300 2059677": {
+          "incomeBC": 3071900,
+          "bruteIncome": 3477900,
+          "cant": 116,
+          "incomeBCG": 1940940
+        },
+        "Hector Cáceres - 3507880253": {
+          "incomeBC": 206000,
+          "bruteIncome": 260000,
+          "incomeBCG": 123600,
+          "cant": 12
+        },
+        "Viviana Castro  - 3105685757": {
+          "bruteIncome": 1296000,
+          "cant": 48,
+          "incomeBC": 1132000,
+          "incomeBCG": 725000
+        },
+        "Dianne Mejía León - 3004307689": {
+          "cant": 70,
+          "incomeBCG": 1100220,
+          "incomeBC": 1833700,
+          "bruteIncome": 2075700
+        },
+        "Camilo Sanchez  - 3105544547": {
+          "bruteIncome": 212500,
+          "incomeBC": 185500,
+          "cant": 7,
+          "incomeBCG": 148400
+        },
+        "Jeffer Carrillo - 3006757300": {
+          "incomeBCG": 133600,
+          "cant": 5,
+          "bruteIncome": 190000,
+          "incomeBC": 167000
+        },
+        "Rafael Daza - 3192478871": {
+          "cant": 45,
+          "incomeBCG": 718600,
+          "bruteIncome": 1263000,
+          "incomeBC": 1107000
+        },
+        "Erik Eduardo Díaz Osorio  - 3143318944": {
+          "incomeBC": 2255500,
+          "incomeBCG": 1447100,
+          "cant": 74,
+          "bruteIncome": 2555500
+        },
+        "Byron León Méndez - +57 312 4891787": {
+          "cant": 85,
+          "incomeBC": 2387000,
+          "bruteIncome": 2667000,
+          "incomeBCG": 1501400
+        },
+        "Juliana jaramillo  - (+57) 3012078787 ": {
+          "cant": 59,
+          "incomeBCG": 991800,
+          "bruteIncome": 1825000,
+          "incomeBC": 1653000
+        },
+        "Natalia1996 - 3184564232": {
+          "incomeBCG": 960600,
+          "bruteIncome": 1634000,
+          "cant": 42,
+          "incomeBC": 1499000
+        },
+        "Angelica Rodriguez - 3105891842": {
+          "incomeBCG": 493040,
+          "cant": 28,
+          "incomeBC": 772400,
+          "bruteIncome": 854400
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "incomeBC": 608500,
+          "bruteIncome": 688500,
+          "cant": 28,
+          "incomeBCG": 365100
+        }
+      },
+      "reservas": 606,
+      "guiasH": {
+        "Rafael Daza - 3192478871": {
+          "personas": 2,
+          "cant": 1,
+          "valor": 6000
+        },
+        "Jeffer Carrillo - 3006757300": {
+          "valor": 11000,
+          "cant": 3,
+          "personas": 3
+        },
+        "Camilo Sanchez  - 3105544547": {
+          "cant": 1,
+          "personas": 1,
+          "valor": 3000
+        },
+        "Juliana jaramillo  - (+57) 3012078787 ": {
+          "personas": 4,
+          "cant": 2,
+          "valor": 16000
+        },
+        "Luz Adriana Ibañez - +57 300 2059677": {
+          "personas": 7,
+          "cant": 5,
+          "valor": 26000
+        },
+        "Dianne Mejía León - 3004307689": {
+          "personas": 1,
+          "cant": 1,
+          "valor": 4000
+        },
+        "Viviana Castro  - 3105685757": {
+          "cant": 2,
+          "valor": 8000,
+          "personas": 2
+        },
+        "Byron León Méndez - +57 312 4891787": {
+          "valor": 26000,
+          "cant": 5,
+          "personas": 8
+        },
+        "Erik Eduardo Díaz Osorio  - 3143318944": {
+          "cant": 6,
+          "personas": 7,
+          "valor": 24000
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "personas": 2,
+          "valor": 6000,
+          "cant": 1
+        },
+        "Natalia1996 - 3184564232": {
+          "valor": 3000,
+          "cant": 1,
+          "personas": 1
+        }
+      },
+      "ingresosBrutos": 18999500,
+      "BC": 6229100,
+      "comHot": {
+        "Macondo Hostel": {
+          "personas": 1,
+          "monto": 3000
+        },
+        "Botánico Hostel": {
+          "personas": 2,
+          "monto": 6000
+        },
+        "Casa de la Vega": {
+          "monto": 9000,
+          "personas": 3
+        },
+        "R10": {
+          "monto": 18000,
+          "personas": 6
+        },
+        "Selina Chapinero": {
+          "personas": 4,
+          "monto": 16000
+        },
+        "Hobu": {
+          "monto": 12000,
+          "personas": 4
+        },
+        "Selina Candelaria": {
+          "personas": 8,
+          "monto": 32000
+        },
+        "Selina Parque 93": {
+          "personas": 2,
+          "monto": 8000
+        },
+        "Masaya Bogota": {
+          "personas": 4,
+          "monto": 16000
+        },
+        "Bandido": {
+          "monto": 3000,
+          "personas": 1
+        },
+        "El Viajero Bogotá": {
+          "monto": 4000,
+          "personas": 1
+        },
+        "Prisma Hostel": {
+          "personas": 2,
+          "monto": 6000
+        }
+      },
+      "noPresentan": 506,
+      "plataforma": {
+        "Hostel/Hotel": 43,
+        "Guidebook": 2,
+        "Facebook": 3,
+        "Free Tour Cartagena": 13,
+        "A friend": 57,
+        "adic": {
+          "R10": 6,
+          "Selina Chapinero": 4,
+          "Prisma Hostel": 2,
+          "Hobu": 4,
+          "Masaya Bogota": 4,
+          "Granada Hostel": 4,
+          "Macondo Hostel": 1,
+          "Agencia protours": 3,
+          "Und": 572,
+          "Botánico Hostel": 2,
+          "Selina Candelaria": 8,
+          "El Viajero Bogotá": 1,
+          "Selina Parque 93": 2,
+          "Los encontré en la calle ": 2,
+          "Bandido": 1,
+          "Casa de la Vega": 3
+        },
+        "Blog": 7,
+        "Free Tour Free Tour Medellin": 7,
+        "Freetour.com": 11,
+        "Google": 107,
+        "Civitatis": 190,
+        "Lucky": 6,
+        "Free Tour Bogota": 18,
+        "TripAdvisor": 4,
+        "Instagram": 2,
+        "Guruwalk": 134,
+        "Other": 15
+      },
+      "cant": 46,
+      "personas": 619,
+      "noTerminan": 0
+    },
+    "Free Walking Tour Bogotá_English": {
+      "comPlataforma": 708000,
+      "ingresosBrutos": 26565000,
+      "reservas": 686,
+      "canales": [
+        "Freetour.com",
+        "Guruwalk",
+        "Civitatis"
+      ],
+      "paises": {
+        "Mexico": 3,
+        "Argentina": 2,
+        "Lebanon": 3,
+        "India": 3,
+        "Austria": 15,
+        "Uruguay": 2,
+        "Australia": 17,
+        "Colombia": 44,
+        "Desconocido": 44,
+        "Peru": 1,
+        "New Zealand": 3,
+        "Dominica": 1,
+        "Spain": 3,
+        "United States": 39,
+        "New Zealand": 5,
+        "Afghanistan": 6,
+        "United Kingdom": 59,
+        "Sweden": 1,
+        "Switzerland": 21,
+        "Andorra": 1,
+        "Singapore": 7,
+        "Cyprus": 2,
+        "Poland": 17,
+        "United States": 90,
+        "China": 7,
+        "Lithuania": 1,
+        "France": 37,
+        "Norway": 4,
+        "Tunisia": 1,
+        "Taiwan": 2,
+        "South Africa": 1,
+        "Russian Federation": 1,
+        "Bulgaria": 1,
+        "Bolivia": 1,
+        "Canada": 34,
+        "Cambodia": 1,
+        "Croatia": 1,
+        "Portugal": 12,
+        "Finland": 2,
+        "Serbia": 2,
+        "Korea, Republic Of": 1,
+        "Brazil": 20,
+        "Denmark": 8,
+        "Slovenia": 1,
+        "Czech Republic": 2,
+        "Armenia": 1,
+        "Italy": 10,
+        "Israel": 26,
+        "Swaziland": 1,
+        "Pakistan": 1,
+        "Ireland": 18,
+        "England": 3,
+        "Chile": 2,
+        "United Kingdom": 45,
+        "Dominican Republic": 1,
+        "Indonesia": 6,
+        "Luxembourg": 2,
+        "Belgium": 24,
+        "Germany": 124,
+        "Netherlands": 49,
+        "Guatemala": 1,
+        "Panama": 2,
+        "Turkey": 7
+      },
+      "guiasH": {
+        "Camilo Sanchez  - 3105544547": {
+          "cant": 10,
+          "personas": 14,
+          "valor": 49000
+        },
+        "Natalia1996 - 3184564232": {
+          "personas": 8,
+          "valor": 28000,
+          "cant": 7
+        },
+        "Jeffer Carrillo - 3006757300": {
+          "personas": 37,
+          "valor": 131000,
+          "cant": 23
+        },
+        "Angelica Rodriguez - 3105891842": {
+          "cant": 11,
+          "valor": 93000,
+          "personas": 26
+        },
+        "Dianne Mejía León - 3004307689": {
+          "personas": 30,
+          "valor": 104000,
+          "cant": 18
+        },
+        "Juliana jaramillo  - (+57) 3012078787 ": {
+          "personas": 10,
+          "valor": 34000,
+          "cant": 9
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "cant": 10,
+          "valor": 60000,
+          "personas": 17
+        },
+        "Juan Aponte - 3204440551": {
+          "personas": 2,
+          "valor": 8000,
+          "cant": 1
+        },
+        "Viviana Castro  - 3105685757": {
+          "personas": 10,
+          "cant": 7,
+          "valor": 35000
+        },
+        "Rafael Daza - 3192478871": {
+          "valor": 49000,
+          "cant": 11,
+          "personas": 14
+        },
+        "Byron León Méndez - +57 312 4891787": {
+          "valor": 49000,
+          "cant": 11,
+          "personas": 14
+        }
+      },
+      "noPresentan": 348,
+      "comHotel": 640000,
+      "plataforma": {
+        "Blog": 57,
+        "Hostel/Hotel": 184,
+        "A friend": 98,
+        "Instagram": 2,
+        "Free Tour Free Tour Medellin": 3,
+        "Café Orígenes": 3,
+        "Guia": 3,
+        "Airbnb": 1,
+        "Civitatis": 10,
+        "adic": {
+          "El Viajero Bogotá": 21,
+          "Selina Candelaria": 57,
+          "Arche Noah": 10,
+          "Hobu": 3,
+          "Bandido": 2,
+          "R10": 17,
+          "Sin Hostel Bogota": 3,
+          "Colibrí": 2,
+          "Selina Chapinero": 3,
+          "tet.artist@gmail.com": 3,
+          "Fátima Suites": 11,
+          "Trip Monkey Hostel": 1,
+          "Botánico Hostel": 28,
+          "Casa de las Plazas Hostal": 2,
+          "Graffiti": 6,
+          "Masaya Bogota": 13,
+          "Und": 659,
+          "Lima Limon": 6,
+          "Macondo Hostel": 5
+        },
+        "Freetour.com": 24,
+        "Guruwalk": 92,
+        "Facebook": 6,
+        "Free Tour Medellin": 5,
+        "Free Tour Cartagena": 13,
+        "TripAdvisor": 9,
+        "Guidebook": 10,
+        "Other": 30,
+        "Google": 246,
+        "Free Tour Bogota": 44,
+        "Lucky": 12
+      },
+      "guias": {
+        "Rafael Daza - 3192478871": {
+          "bruteIncome": 3721600,
+          "cant": 118,
+          "incomeBC": 3506600,
+          "incomeBCG": 2160760
+        },
+        "Jeffer Carrillo - 3006757300": {
+          "cant": 137,
+          "incomeBC": 3661000,
+          "incomeBCG": 2196600,
+          "bruteIncome": 3964000
+        },
+        "Angelica Rodriguez - 3105891842": {
+          "cant": 90,
+          "incomeBC": 2548800,
+          "bruteIncome": 2721800,
+          "incomeBCG": 1529280
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "bruteIncome": 1492500,
+          "cant": 49,
+          "incomeBCG": 827100,
+          "incomeBC": 1378500
+        },
+        "Juan Aponte - 3204440551": {
+          "incomeBCG": 211800,
+          "cant": 11,
+          "incomeBC": 353000,
+          "bruteIncome": 379000
+        },
+        "Viviana Castro  - 3105685757": {
+          "bruteIncome": 2185000,
+          "incomeBC": 2120000,
+          "cant": 67,
+          "incomeBCG": 1306000
+        },
+        "Byron León Méndez - +57 312 4891787": {
+          "bruteIncome": 1852000,
+          "incomeBCG": 1152000,
+          "cant": 59,
+          "incomeBC": 1797000
+        },
+        "Juliana jaramillo  - (+57) 3012078787 ": {
+          "bruteIncome": 3490300,
+          "incomeBC": 3392300,
+          "incomeBCG": 2035380,
+          "cant": 113
+        },
+        "Dianne Mejía León - 3004307689": {
+          "cant": 101,
+          "bruteIncome": 2842800,
+          "incomeBC": 2630800,
+          "incomeBCG": 1578480
+        },
+        "Natalia1996 - 3184564232": {
+          "cant": 21,
+          "incomeBC": 793000,
+          "bruteIncome": 825000,
+          "incomeBCG": 508000
+        },
+        "Camilo Sanchez  - 3105544547": {
+          "bruteIncome": 3091000,
+          "incomeBCG": 1869000,
+          "cant": 86,
+          "incomeBC": 3036000
+        }
+      },
+      "comHot": {
+        "Fátima Suites": {
+          "monto": 33000,
+          "personas": 11
+        },
+        "Selina Chapinero": {
+          "monto": 12000,
+          "personas": 3
+        },
+        "Hobu": {
+          "personas": 3,
+          "monto": 9000
+        },
+        "Trip Monkey Hostel": {
+          "personas": 1,
+          "monto": 3000
+        },
+        "Selina Candelaria": {
+          "monto": 228000,
+          "personas": 57
+        },
+        "Bandido": {
+          "personas": 2,
+          "monto": 6000
+        },
+        "R10": {
+          "monto": 51000,
+          "personas": 17
+        },
+        "Botánico Hostel": {
+          "monto": 84000,
+          "personas": 28
+        },
+        "Macondo Hostel": {
+          "monto": 15000,
+          "personas": 5
+        },
+        "Colibrí": {
+          "personas": 2,
+          "monto": 6000
+        },
+        "Masaya Bogota": {
+          "monto": 52000,
+          "personas": 13
+        },
+        "Lima Limon": {
+          "monto": 18000,
+          "personas": 6
+        },
+        "Sin Hostel Bogota": {
+          "personas": 3,
+          "monto": 9000
+        },
+        "Arche Noah": {
+          "monto": 30000,
+          "personas": 10
+        },
+        "El Viajero Bogotá": {
+          "personas": 21,
+          "monto": 84000
+        }
+      },
+      "guiasP": {
+        "Viviana Castro  - 3105685757": {
+          "cant": 4,
+          "valor": 30000,
+          "personas": 6
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "cant": 5,
+          "personas": 9,
+          "valor": 54000
+        },
+        "Juan Aponte - 3204440551": {
+          "personas": 4,
+          "valor": 18000,
+          "cant": 2
+        },
+        "Byron León Méndez - +57 312 4891787": {
+          "valor": 6000,
+          "cant": 1,
+          "personas": 1
+        },
+        "Natalia1996 - 3184564232": {
+          "cant": 1,
+          "valor": 4000,
+          "personas": 1
+        },
+        "Juliana jaramillo  - (+57) 3012078787 ": {
+          "valor": 64000,
+          "cant": 7,
+          "personas": 11
+        },
+        "Camilo Sanchez  - 3105544547": {
+          "cant": 1,
+          "valor": 6000,
+          "personas": 1
+        },
+        "Angelica Rodriguez - 3105891842": {
+          "cant": 7,
+          "personas": 14,
+          "valor": 80000
+        },
+        "Jeffer Carrillo - 3006757300": {
+          "personas": 32,
+          "cant": 13,
+          "valor": 172000
+        },
+        "Dianne Mejía León - 3004307689": {
+          "personas": 19,
+          "cant": 8,
+          "valor": 108000
+        },
+        "Rafael Daza - 3192478871": {
+          "personas": 28,
+          "cant": 15,
+          "valor": 166000
+        }
+      },
+      "BC": 9842600,
+      "cant": 51,
+      "noTerminan": 0,
+      "comPlat": {
+        "Guruwalk": {
+          "personas": 92,
+          "monto": 552000
+        },
+        "Freetour.com": {
+          "personas": 24,
+          "monto": 96000
+        },
+        "Civitatis": {
+          "monto": 60000,
+          "personas": 10
+        }
+      },
+      "personas": 852,
+      "comGuias": 15374400
+    },
+    "Free Food Tour Bogotá_Spanish": {
+      "comPlat": {
+        "Guruwalk": {
+          "monto": 36000,
+          "personas": 6
+        },
+        "Civitatis": {
+          "personas": 2,
+          "monto": 12000
+        }
+      },
+      "BC": 92599.99999999997,
+      "paises": {
+        "Canada": 4,
+        "Spain": 1,
+        "Mexico": 4,
+        "Venezuela": 1,
+        "Poland": 1,
+        "Portugal": 2,
+        "United States": 3,
+        "Puerto Rico": 2
+      },
+      "comHotel": 7000,
+      "comGuias": 640400,
+      "canales": [
+        "Guruwalk",
+        "Civitatis"
+      ],
+      "personas": 18,
+      "noPresentan": 41,
+      "guiasP": {
+        "Santiago Vega - +57 311 2635905": {
+          "cant": 2,
+          "personas": 3,
+          "valor": 18000
+        },
+        "Erik Eduardo Díaz Osorio  - 3143318944": {
+          "cant": 3,
+          "valor": 30000,
+          "personas": 5
+        }
+      },
+      "comHot": {
+        "Botánico Hostel": {
+          "personas": 1,
+          "monto": 3000
+        },
+        "Selina Parque 93": {
+          "personas": 1,
+          "monto": 4000
+        }
+      },
+      "guias": {
+        "Santiago Vega - +57 311 2635905": {
+          "cant": 4,
+          "incomeBC": 159000,
+          "bruteIncome": 180000,
+          "incomeBCG": 127200
+        },
+        "Erik Eduardo Díaz Osorio  - 3143318944": {
+          "cant": 14,
+          "incomeBCG": 513200,
+          "incomeBC": 574000,
+          "bruteIncome": 608000
+        }
+      },
+      "comPlataforma": 48000,
+      "plataforma": {
+        "A friend": 7,
+        "Google": 1,
+        "adic": {
+          "Selina Parque 93": 1,
+          "Botánico Hostel": 1,
+          "Und": 16
+        },
+        "Hostel/Hotel": 2,
+        "Civitatis": 2,
+        "Guruwalk": 6
+      },
+      "reservas": 28,
+      "guiasH": {
+        "Santiago Vega - +57 311 2635905": {
+          "cant": 1,
+          "valor": 3000,
+          "personas": 1
+        },
+        "Erik Eduardo Díaz Osorio  - 3143318944": {
+          "personas": 1,
+          "cant": 1,
+          "valor": 4000
+        }
+      },
+      "cant": 6,
+      "noTerminan": 0,
+      "ingresosBrutos": 788000
+    },
+    "Free Food Tour Bogotá_English": {
+      "guias": {
+        "Jeffer Carrillo - 3006757300": {
+          "incomeBCG": 265800,
+          "incomeBC": 443000,
+          "cant": 15,
+          "bruteIncome": 465000
+        },
+        "Rafael Daza - 3192478871": {
+          "bruteIncome": 526400,
+          "incomeBC": 506400,
+          "incomeBCG": 405120,
+          "cant": 15
+        },
+        "Juliana jaramillo  - (+57) 3012078787 ": {
+          "incomeBC": 1712000,
+          "cant": 54,
+          "bruteIncome": 1796000,
+          "incomeBCG": 1027200
+        },
+        "Dianne Mejía León - 3004307689": {
+          "incomeBCG": 717960,
+          "cant": 43,
+          "incomeBC": 1196600,
+          "bruteIncome": 1308600
+        },
+        "Hector Cáceres - 3507880253": {
+          "incomeBC": 839000,
+          "bruteIncome": 885000,
+          "cant": 31,
+          "incomeBCG": 503400
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "incomeBCG": 1026480,
+          "incomeBC": 1710800,
+          "bruteIncome": 1836800,
+          "cant": 61
+        }
+      },
+      "personas": 219,
+      "comHot": {
+        "Masaya Bogota": {
+          "personas": 8,
+          "monto": 32000
+        },
+        "The Luun Hostel": {
+          "monto": 6000,
+          "personas": 2
+        },
+        "Selina Parque 93": {
+          "personas": 2,
+          "monto": 8000
+        },
+        "Macondo Hostel": {
+          "personas": 1,
+          "monto": 3000
+        },
+        "Lima Limon": {
+          "personas": 1,
+          "monto": 3000
+        },
+        "Sin Hostel Bogota": {
+          "monto": 6000,
+          "personas": 2
+        },
+        "Arche Noah": {
+          "monto": 6000,
+          "personas": 2
+        },
+        "El Viajero Bogotá": {
+          "personas": 8,
+          "monto": 32000
+        },
+        "Hobu": {
+          "personas": 2,
+          "monto": 6000
+        },
+        "Botánico Hostel": {
+          "personas": 10,
+          "monto": 30000
+        },
+        "Trip Monkey Hostel": {
+          "personas": 1,
+          "monto": 3000
+        },
+        "R10": {
+          "monto": 15000,
+          "personas": 5
+        },
+        "Explora": {
+          "monto": 6000,
+          "personas": 2
+        }
+      },
+      "canales": [
+        "Freetour.com",
+        "Guruwalk"
+      ],
+      "comPlataforma": 254000,
+      "noTerminan": 0,
+      "reservas": 203,
+      "guiasH": {
+        "Rafael Daza - 3192478871": {
+          "personas": 4,
+          "cant": 3,
+          "valor": 14000
+        },
+        "Jeffer Carrillo - 3006757300": {
+          "personas": 1,
+          "valor": 4000,
+          "cant": 1
+        },
+        "Juliana jaramillo  - (+57) 3012078787 ": {
+          "valor": 28000,
+          "cant": 5,
+          "personas": 8
+        },
+        "Dianne Mejía León - 3004307689": {
+          "cant": 7,
+          "personas": 8,
+          "valor": 28000
+        },
+        "Hector Cáceres - 3507880253": {
+          "valor": 26000,
+          "cant": 5,
+          "personas": 8
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "cant": 11,
+          "valor": 56000,
+          "personas": 17
+        }
+      },
+      "ingresosBrutos": 6817800,
+      "comGuias": 3945960,
+      "plataforma": {
+        "TripAdvisor": 6,
+        "Google": 38,
+        "Other": 8,
+        "A friend": 34,
+        "Hostel/Hotel": 46,
+        "Viator": 4,
+        "Free Tour Free Tour Medellin": 2,
+        "adic": {
+          "The Luun Hostel": 2,
+          "El Viajero Bogotá": 8,
+          "Arche Noah": 2,
+          "R10": 5,
+          "Macondo Hostel": 1,
+          "Und": 173,
+          "Masaya Bogota": 8,
+          "Botánico Hostel": 10,
+          "Trip Monkey Hostel": 1,
+          "Selina Parque 93": 2,
+          "Sin Hostel Bogota": 2,
+          "Explora": 2,
+          "Lima Limon": 1,
+          "Hobu": 2
+        },
+        "Airbnb": 3,
+        "Guidebook": 1,
+        "Freetour.com": 14,
+        "Guruwalk": 33,
+        "Free Tour Bogota": 21,
+        "Blog": 9
+      },
+      "comPlat": {
+        "Guruwalk": {
+          "monto": 198000,
+          "personas": 33
+        },
+        "Freetour.com": {
+          "monto": 56000,
+          "personas": 14
+        }
+      },
+      "BC": 2461840,
+      "paises": {
+        "Argentina": 1,
+        "Desconocido": 13,
+        "Chile": 1,
+        "Australia": 1,
+        "United Kingdom": 14,
+        "Mexico": 2,
+        "Belgium": 3,
+        "New Zealand": 2,
+        "Poland": 7,
+        "Canada": 9,
+        "India": 2,
+        "El Salvador": 2,
+        "Germany": 22,
+        "Peru": 1,
+        "Costa Rica": 2,
+        "Netherlands": 14,
+        "Switzerland": 4,
+        "Singapore": 5,
+        "Japan": 2,
+        "Philippines": 1,
+        "United Kingdom": 13,
+        "Austria": 3,
+        "Spain": 1,
+        "Denmark": 6,
+        "Albania": 1,
+        "Israel": 10,
+        "Ireland": 4,
+        "Colombia": 10,
+        "France": 5,
+        "United States": 22,
+        "Brazil": 10,
+        "Italy": 1,
+        "Norway": 2,
+        "Slovenia": 1,
+        "United States": 18,
+        "Kyrgyzstan": 2,
+        "Sweden": 1,
+        "Swaziland": 1
+      },
+      "cant": 18,
+      "comHotel": 156000,
+      "noPresentan": 114,
+      "guiasP": {
+        "Jeffer Carrillo - 3006757300": {
+          "personas": 3,
+          "cant": 2,
+          "valor": 18000
+        },
+        "Juliana jaramillo  - (+57) 3012078787 ": {
+          "valor": 56000,
+          "cant": 5,
+          "personas": 10
+        },
+        "Dianne Mejía León - 3004307689": {
+          "cant": 9,
+          "personas": 15,
+          "valor": 84000
+        },
+        "Rafael Daza - 3192478871": {
+          "cant": 1,
+          "valor": 6000,
+          "personas": 1
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "valor": 70000,
+          "personas": 14,
+          "cant": 9
+        },
+        "Hector Cáceres - 3507880253": {
+          "valor": 20000,
+          "cant": 3,
+          "personas": 4
+        }
+      }
+    },
+    "Free War and Peace in Colombia Tour_English": {
+      "comHot": {
+        "El Viajero Bogotá": {
+          "personas": 3,
+          "monto": 12000
+        },
+        "Selina Candelaria": {
+          "monto": 4000,
+          "personas": 1
+        },
+        "Masaya Bogota": {
+          "monto": 16000,
+          "personas": 4
+        },
+        "Botánico Hostel": {
+          "monto": 24000,
+          "personas": 8
+        },
+        "Casa de la Vega": {
+          "personas": 2,
+          "monto": 6000
+        },
+        "R10": {
+          "monto": 6000,
+          "personas": 2
+        },
+        "Lima Limon": {
+          "monto": 6000,
+          "personas": 2
+        },
+        "Arche Noah": {
+          "personas": 2,
+          "monto": 6000
+        },
+        "Casa Republicana": {
+          "monto": 6000,
+          "personas": 2
+        },
+        "Bandido": {
+          "personas": 2,
+          "monto": 6000
+        },
+        "Sin Hostel Bogota": {
+          "monto": 3000,
+          "personas": 1
+        }
+      },
+      "comPlataforma": 98000,
+      "guiasP": {
+        "Santiago Vega - +57 311 2635905": {
+          "valor": 4000,
+          "cant": 1,
+          "personas": 1
+        },
+        "Hector Cáceres - 3507880253": {
+          "cant": 2,
+          "valor": 12000,
+          "personas": 2
+        },
+        "Camilo Sanchez  - 3105544547": {
+          "personas": 6,
+          "cant": 3,
+          "valor": 36000
+        },
+        "Dianne Mejía León - 3004307689": {
+          "valor": 28000,
+          "personas": 6,
+          "cant": 3
+        },
+        "Natalia1996 - 3184564232": {
+          "cant": 2,
+          "valor": 18000,
+          "personas": 3
+        }
+      },
+      "cant": 18,
+      "paises": {
+        "New Zealand": 2,
+        "Puerto Rico": 1,
+        "Slovakia": 2,
+        "Desconocido": 6,
+        "Canada": 3,
+        "Mexico": 3,
+        "Italy": 3,
+        "Brazil": 8,
+        "India": 1,
+        "France": 10,
+        "Serbia": 3,
+        "Netherlands": 7,
+        "Swaziland": 1,
+        "Ireland": 6,
+        "Belgium": 2,
+        "Austria": 3,
+        "United Kingdom": 14,
+        "United States": 3,
+        "Colombia": 4,
+        "Argentina": 2,
+        "United Kingdom": 1,
+        "Sweden": 3,
+        "Spain": 4,
+        "Poland": 3,
+        "Singapore": 1,
+        "Switzerland": 2,
+        "Russian Federation": 3,
+        "Germany": 16,
+        "Greece": 3,
+        "United States": 7
+      },
+      "reservas": 107,
+      "plataforma": {
+        "TripAdvisor": 3,
+        "Free Tour Bogota": 11,
+        "Other": 6,
+        "Civitatis": 1,
+        "A friend": 19,
+        "adic": {
+          "Arche Noah": 2,
+          "Casa Republicana": 2,
+          "Casa de la Vega": 2,
+          "Botánico Hostel": 8,
+          "Sin Hostel Bogota": 1,
+          "graffiti tour website": 1,
+          "Und": 97,
+          "Bandido": 2,
+          "El Viajero Bogotá": 3,
+          "Lima Limon": 2,
+          "Selina Candelaria": 1,
+          "Masaya Bogota": 4,
+          "R10": 2
+        },
+        "Free Tour Cartagena": 1,
+        "Hostel/Hotel": 32,
+        "Guruwalk": 12,
+        "Blog": 11,
+        "Freetour.com": 5,
+        "Airbnb": 2,
+        "Google": 24
+      },
+      "guiasH": {
+        "Dianne Mejía León - 3004307689": {
+          "cant": 12,
+          "personas": 16,
+          "valor": 51000
+        },
+        "Natalia1996 - 3184564232": {
+          "valor": 4000,
+          "personas": 1,
+          "cant": 1
+        },
+        "Hector Cáceres - 3507880253": {
+          "valor": 12000,
+          "personas": 4,
+          "cant": 2
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "cant": 5,
+          "valor": 28000,
+          "personas": 8
+        }
+      },
+      "personas": 127,
+      "ingresosBrutos": 4591500,
+      "noPresentan": 52,
+      "BC": 1290280,
+      "canales": [
+        "Guruwalk",
+        "Civitatis",
+        "Freetour.com"
+      ],
+      "comPlat": {
+        "Guruwalk": {
+          "monto": 72000,
+          "personas": 12
+        },
+        "Freetour.com": {
+          "monto": 20000,
+          "personas": 5
+        },
+        "Civitatis": {
+          "monto": 6000,
+          "personas": 1
+        }
+      },
+      "guias": {
+        "Dianne Mejía León - 3004307689": {
+          "cant": 54,
+          "incomeBCG": 1180200,
+          "incomeBC": 1858000,
+          "bruteIncome": 1937000
+        },
+        "Santiago Vega - +57 311 2635905": {
+          "bruteIncome": 619000,
+          "incomeBCG": 469600,
+          "cant": 17,
+          "incomeBC": 587000
+        },
+        "Natalia1996 - 3184564232": {
+          "incomeBC": 749500,
+          "bruteIncome": 771500,
+          "incomeBCG": 562020,
+          "cant": 19
+        },
+        "Hector Cáceres - 3507880253": {
+          "incomeBC": 400000,
+          "cant": 14,
+          "incomeBCG": 320000,
+          "bruteIncome": 424000
+        },
+        "Camilo Sanchez  - 3105544547": {
+          "incomeBC": 804000,
+          "incomeBCG": 576400,
+          "bruteIncome": 840000,
+          "cant": 23
+        }
+      },
+      "comGuias": 3108220,
+      "comHotel": 95000,
+      "noTerminan": 0
+    },
+    "Free War and Peace in Colombia Tour_Spanish": {
+      "comHotel": 0,
+      "reservas": 2,
+      "guias": {
+        "Camilo Sanchez  - 3105544547": {
+          "cant": 3,
+          "incomeBC": 50000,
+          "bruteIncome": 68000,
+          "incomeBCG": 50000
+        }
+      },
+      "plataforma": {
+        "Civitatis": 3,
+        "adic": {
+          "Und": 3
+        }
+      },
+      "comPlataforma": 18000,
+      "noTerminan": 0,
+      "BC": 0,
+      "noPresentan": 1,
+      "comGuias": 50000,
+      "cant": 1,
+      "guiasP": {
+        "Camilo Sanchez  - 3105544547": {
+          "valor": 18000,
+          "personas": 3,
+          "cant": 1
+        }
+      },
+      "ingresosBrutos": 68000,
+      "canales": [
+        "Civitatis"
+      ],
+      "comPlat": {
+        "Civitatis": {
+          "personas": 3,
+          "monto": 18000
+        }
+      },
+      "personas": 3,
+      "paises": {
+        "Argentina": 3
+      }
+    }
+  },
+  "hoteles": [
+    "Selina Candelaria",
+    "Masaya Bogota",
+    "El Viajero Bogotá",
+    "Macondo Hostel",
+    "Botánico Hostel",
+    "R10",
+    "Selina Chapinero",
+    "Casa Republicana",
+    "Explora",
+    "Arche Noah",
+    "Prisma Hostel",
+    "Casa de la Vega",
+    "Bandido",
+    "Fátima Suites",
+    "The Luun Hostel",
+    "Sin Hostel Bogota",
+    "Hobu",
+    "Lima Limon",
+    "Trip Monkey Hostel",
+    "Selina Parque 93",
+    "Colibrí"
+  ],
+  "canales": [
+    "Freetour.com",
+    "Guruwalk",
+    "Civitatis"
+  ],
+  "ingresosDespPlatYHot": 53684800,
+  "guiaTourCant": {
+    "Free Food Tour Bogotá_English": {
+      "Dianne Mejía León - 3004307689": 43,
+      "Juliana jaramillo  - (+57) 3012078787 ": 54,
+      "Hector Cáceres - 3507880253": 31,
+      "Rafael Daza - 3192478871": 15,
+      "Santiago Vega - +57 311 2635905": 61,
+      "Jeffer Carrillo - 3006757300": 15
+    },
+    "Free Walking Tour Bogotá_English": {
+      "Angelica Rodriguez - 3105891842": 90,
+      "Byron León Méndez - +57 312 4891787": 59,
+      "Juliana jaramillo  - (+57) 3012078787 ": 113,
+      "Camilo Sanchez  - 3105544547": 86,
+      "Viviana Castro  - 3105685757": 67,
+      "Dianne Mejía León - 3004307689": 101,
+      "Natalia1996 - 3184564232": 21,
+      "Jeffer Carrillo - 3006757300": 137,
+      "Santiago Vega - +57 311 2635905": 49,
+      "Rafael Daza - 3192478871": 118,
+      "Juan Aponte - 3204440551": 11
+    },
+    "Free Walking Tour Bogotá_Spanish": {
+      "Natalia1996 - 3184564232": 42,
+      "Byron León Méndez - +57 312 4891787": 85,
+      "Jeffer Carrillo - 3006757300": 5,
+      "Juliana jaramillo  - (+57) 3012078787 ": 59,
+      "Hector Cáceres - 3507880253": 12,
+      "Luz Adriana Ibañez - +57 300 2059677": 116,
+      "Rafael Daza - 3192478871": 45,
+      "Angelica Rodriguez - 3105891842": 28,
+      "Erik Eduardo Díaz Osorio  - 3143318944": 74,
+      "Camilo Sanchez  - 3105544547": 7,
+      "Dianne Mejía León - 3004307689": 70,
+      "Santiago Vega - +57 311 2635905": 28,
+      "Viviana Castro  - 3105685757": 48
+    },
+    "Free War and Peace in Colombia Tour_English": {
+      "Dianne Mejía León - 3004307689": 54,
+      "Camilo Sanchez  - 3105544547": 23,
+      "Natalia1996 - 3184564232": 19,
+      "Hector Cáceres - 3507880253": 14,
+      "Santiago Vega - +57 311 2635905": 17
+    },
+    "Free Food Tour Bogotá_Spanish": {
+      "Santiago Vega - +57 311 2635905": 4,
+      "Erik Eduardo Díaz Osorio  - 3143318944": 14
+    },
+    "Free War and Peace in Colombia Tour_Spanish": {
+      "Camilo Sanchez  - 3105544547": 3
+    }
+  },
+  "ciudad": "Bogota"
+}
